@@ -44,5 +44,4 @@ It is **not intended for real-world or commercial use**, and some features may b
 * Duarte Lacerda
 
 ## 📄 License
-
-No license has been applied. This code is for educational/demo purposes only.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
