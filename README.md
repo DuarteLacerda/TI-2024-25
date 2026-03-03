@@ -42,6 +42,7 @@ It is **not intended for real-world or commercial use**, and some features may b
 ## 👥 Authors
 
 * Duarte Lacerda
+* Rafael Freitas
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
