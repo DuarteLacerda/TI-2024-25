@@ -1,7 +1,7 @@
 # IT Project - IoT System for Supermarket 🛒
 
 **Mar 2025 - Apr 2025**
-*University group project – 1st year, 2nd semester*
+*University Degree group project – 1st year, 2nd semester*
 
 This project consists of an IoT system for monitoring and controlling sensors and actuators in a supermarket environment. It was developed using a Raspberry Pi 3 Model B, a responsive website and a simple API for real-time interaction.
 
